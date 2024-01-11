@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a software engineer, mainly working with cloud technologies and implementing DevOps best practices. I automate all the things and glue stuff together. Kubernetes & GitOps advocate.
+I'm a software engineer, wearing the SRE hat. I implement DevOps best practices. I automate all the things and glue stuff together, with GitOps and Kubernetes.
 
-- 🏢 SRE at [Plum](https://withplum.com/)
-- ⚙️ Kubernetes, GCP, AWS, Terraform, Argo CD, Go, Python, Ruby
+I believe in fostering an engineering culture rooted in honesty, empathy, and effective communication.
+
+- 🏢 SRE Lead at [Plum](https://withplum.com/)
+- ⚙️ Kubernetes, GCP, AWS, Terraform/OpenTofu, Argo CD, Go, Python, Ruby (kinda rusty nowadays)
