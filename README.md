@@ -4,5 +4,5 @@ I'm a software engineer, wearing the SRE hat. I implement DevOps best practices.
 
 I believe in fostering an engineering culture rooted in honesty, empathy, and effective communication.
 
-- 🏢 SRE Team Lead at [Plum](https://withplum.com/)
+- 🏢 Principal SRE at [Workable](https://www.workable.com/)
 - ⚙️ Kubernetes, GCP, AWS, Terraform/OpenTofu, Argo CD, Go, Python, Ruby (kinda rusty nowadays)
