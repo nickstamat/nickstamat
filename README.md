@@ -4,5 +4,5 @@ I'm a software engineer wearing many hats. I implement DevOps best practices. I 
 
 I believe in fostering an engineering culture rooted in honesty, empathy, and effective communication.
 
-- 🏢 Senior Software Engineer at [Timescale](https://www.timescale.com/)
+- 🏢 Senior Software Engineer at [TigerData](https://www.tigerdata.com/)
 - ⚙️ Kubernetes, GCP, AWS, Terraform, Argo CD, Go, Python, Ruby (kinda rusty nowadays)
